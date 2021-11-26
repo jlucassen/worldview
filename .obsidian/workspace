@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "c96dcfcae0d7b059",
+    "type": "split",
+    "children": [
+      {
+        "id": "26cca96e0a2b65f6",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d0686e222ba9590",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9d6b66a55f85464",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0694fe44b74de116",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a7153c2e89642d82",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4ec1b500450aac45",
+    "type": "split",
+    "children": [
+      {
+        "id": "10b606d74c92c5e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cad40e4b385b5cc1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "26cca96e0a2b65f6",
+  "lastOpenFiles": [
+    "Philosophy/Moral Uncertainty.md",
+    "Philosophy/Sentience.md",
+    "Philosophy/Meta-Ethics.md",
+    "Physicalism.md",
+    "Philosophy/Physicalism.md",
+    "Philosophy/Epistemology.md",
+    "Philosophy/Reductionism.md",
+    "Philosophy/Repugnant Conclusion.md",
+    "Philosophy/Ethics.md",
+    "Philosophy/Meta-Epistemology.md"
+  ]
+}

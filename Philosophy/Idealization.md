@@ -1,0 +1,11 @@
+- Goal is to define some kind of process of "self-improvement" which will extrapolate my beliefs *and [[Ethics]]* up to a higher level of capability/intelligence/knowledge. Only trying to define it loosely, or maybe even just lay out success criteria. 
+	- The hope is that this can help rule out misinformed, incorrectly reasoned, inconsistent, incoherent, or otherwise "obviously bad" positions on both descriptive and normative views.
+	- For example, I wouldn't want to have an ethics based on contradictory reasoning, but I might never realize the contradiction myself if it were sufficiently buried and my mind sufficiently on other things.
+- An improved version of me would have different beliefs, take different actions, etc. And of course, I might not approve of them, the same way pre-vegan me wouldn't approve of vegan me. The question of idealization is essentially "how do I want to change?"
+	- Can I hold anything constant? Not empirical beliefs, not epistemology, not meta-epistemology, not ethics, not meta-ethics...
+- How to distinguish insight from mind hacking? Why is a logical argument a fair way to change my mind, but not a clever persuasion or a memetic mind-hack?
+	- Tempted to make an appeal to truth here, but that doesn't make sense given my [[Meta-Epistemology]]. If I don't think there's a privileged "way things are" that I should believe, and want to just believe whatever is best for my [[Ethics]] instead, then my ethics should almost never change.
+- How to define capabilities?
+	- I could define it instrumentally in terms of my goals, but those goals should be open to change during idealization.
+		- Maybe define it in terms of the goals of the current step of the idealization. That would rarely if ever change goals, but it does seem possible?
+	-  No Free Lunch probably forbids a fully goal-general definition.

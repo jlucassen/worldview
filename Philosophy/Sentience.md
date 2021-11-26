@@ -1,0 +1,7 @@
+- Yeah, this is a tough one. TLDR: I have no idea. Which is pretty rough, given that sentience/consciousness/qualia is the foundational intuition for the best-guess consequentialism world preference ordering I use in my [[Ethics]]. But really I have very little to say here besides appealing to the standard intuitive definition of sentience as "the thing that makes existing feel like an experience instead of being nothing".
+- I think illusionism is pretty plausible - maybe the term "consciousness" cropped up as a false reification of the built in social simulator that humans have. But I don't know how to assess this hypothesis.
+- The Cartesian Camcorder view of consciousness from Good and Real (that Eliezer Yudkowsky seems to share?) doesn't really cut it for me, relying on the existence of some type of internal structure opens you up to the problem of interpreting structures. If I think some kind of "reflective monitoring" gives rise to consciousness, then I could interpret any sufficiently large collection of particles to be doing reflective monitoring in some trivial sense. But the view that every collection of molecules is in some sense conscious seems insane.
+	- But I haven't finished Good and Real yet, so hey maybe Drescher really did crack it and I just haven't gotten to the good part
+
+
+- Can something be sentient, as in having some experience, but not suffer or feel pleasure? Like an experience that just never has any positive/negative valence? Doesn't seem impossible... 

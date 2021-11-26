@@ -1,0 +1,6 @@
+- Clarification point: see my [[Meta-Epistemology]] before reading this. 
+	- TLDR: my epistemology is ultimately a tool in service of my [[Ethics]], as is literally everything else I endorse. I define truth as "the belief that is most useful to my goals", but in practice I expect that to mostly be the same as "the belief that makes the most accurate predictions".
+- As far as I'm aware right now, any viable epistemology has to be at least roughly Bayesian, because I'm very confident that probability theory is a very accurate way to describe the world. If you're not Bayesian you don't satisfy Bayes' theorem, which means you have to refute probability theory.
+	- Or you could argue that probability theory isn't an accurate way to model the world. This seems to involve complicated stuff about measure theory, and I really don't know what to make of it. Vaden Masrani talks about this in his anti-longtermist sequence.
+- I don't have a way to prove induction works, but that's fine. Take it as an axiom and rake in the profits. You're always going to need axioms, since a rock can't reason itself into an epistemology.
+- No a priori knowledge. If the point is to model the world accurately, then a priori knowledge doesn't work because it's independent of the world itself. Would reach the same conclusions in any possible world.

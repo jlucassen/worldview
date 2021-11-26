@@ -1,0 +1,10 @@
+- Confident in consequentialism, or about as confident as I can get about this sort of stuff.
+	- Virtue ethics and deontology seem far too parochial - too based in the specifics of human society in the era just around when written communication became big. If we are to believe in the Copernican Principle and say that humans aren't "special", this makes them unlikely as candidates for a True Realist Universal Morality, and viability for that candidacy is what my [[Meta-Ethics]] cares about.
+- I'm very confused about how to reason through this object-level ethical stuff in general, because my [[Meta-Ethics]] still mainly accepts Error Theory and doesn't have very strong alternatives prepared. The above example of rejecting virtue and deontology on grounds of Copernican Principle is the exception where I can use some principle besides moral intuitions, not the norm.
+	- For example, thought experiments that interact with moral intuitions (like the [[Repugnant Conclusion]] and other versions of it) are confusing to me because it's unclear how our moral intuitions are supposed to interact with plausibility of candidacy for Universal Morality. Are they evidence?
+- Noting the above confusion about intuitions and error theory, my intuitions for what specific formulation of consequentialism to follow lean towards final values such as:
+	- Humanism (or at least, [[Sentience]]-ism)
+- And instrumental values such as:
+	- Egalitarianism (diminishing returns argument)
+	- Freedom (option value argument)
+	- Predictive Rationality (general usefulness argument)

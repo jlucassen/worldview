@@ -1,0 +1,7 @@
+- The Repugnant Conclusion is a thought experiment that says we can construct arbitrarily good worlds (on a Total Utilitarian view) with an average quality of life arbitrarily close to zero, just by making the population huge and last a long time.
+	- I feel the intuition here. That doesn't feel like a good world. But the fact that this effect requires massive numbers makes me suspect scope insensitivity.
+- Repugnant Conclusion can be modified in a number of ways that all feel weird and maybe bad:
+	-  One person, high quality of life
+	-  Many people, high quality lives, but extremely short
+-  I think the repugnant conclusion basically just preys on scope insensitivity by taking the standard total utilitarian equation (number x quality x time) out of the training distribution we get here on modern-day Earth, where our intuition is calibrated. 
+-  It seems like aliens with a different lifespan or a different carrying capacity might have versions of the RC with numbers that we're totally fine with. This makes it seem human-specific, therefore parochial and unlikely to be an indicator of True Universal Morality, which is what my [[Meta-Ethics]] cares about.
